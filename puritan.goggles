@@ -50,7 +50,7 @@ $discard,site=barrons.com
 $discard,site=opendemocracy.net
 $discard,site=theappeal.org
 $discard,site=wxpr.org
-
+$discard,site=washingtonexaminer.com
 
 ! Copied the "right sources" goggle below (modified to exclude some left-leaning "right" sites)
 $boost=4,site=wnd.com
