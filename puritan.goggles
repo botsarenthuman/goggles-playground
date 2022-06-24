@@ -23,7 +23,36 @@ $boost=5,site=dougwils.com
 $boost=5,site=crosspolitic.com
 $boost=5,site=warhornmedia.com
 
-! Copied the "right sources" goggle below
+! To craft the "abortion" seach results:
+$discard,site=wikipedia.com
+$discard,site=plannedparenthood.org
+$discard,site=today.com
+$discard,site=guttmacher.org
+$discard,site=who.int
+$discard,site=amnesty.org
+$discard,site=cdc.gov
+$discard,site=npr.org
+$discard,site=independent.co.uk
+$discard,site=axios.com
+$discard,site=reproductiverights.org
+$discard,site=cbsnews.com
+$discard,site=lailluminator.com
+$discard,site=cnn.com
+$discard,site=cnet.com
+$discard,site=go.com
+$discard,site=deadline.com
+$discard,site=nbcnews.com
+$discard,site=euronews.com
+$discard,site=washingtonpost.com
+$discard,site=apnews.com
+$discard,site=wesh.com
+$discard,site=barrons.com
+$discard,site=opendemocracy.net
+$discard,site=theappeal.org
+$discard,site=wxpr.org
+
+
+! Copied the "right sources" goggle below (modified to exclude some left-leaning "right" sites)
 $boost=4,site=wnd.com
 $boost=4,site=weeklystandard.com
 $discard,site=prageru.com
